@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "exception-handling",
+      "title": "Python Exception Handling & Error Recovery",
+      "description": "Master error handling with try-except blocks, custom exceptions, and defensive programming patterns to write robust, production-ready code.",
+      "path": "assignments/exception-handling",
+      "dueDate": "2026-05-19",
+      "attachments": [
+        {
+          "name": "Exception Handling Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
